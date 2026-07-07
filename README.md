@@ -1,2 +1,2 @@
 # Exercicios-Java
-Projetos para treino em linguagem java e POO
+Primeiro sistema de cadastro de clientes usando Java e POO
